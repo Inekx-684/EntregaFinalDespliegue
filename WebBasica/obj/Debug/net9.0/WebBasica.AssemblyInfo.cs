@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebBasica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f617f5ace6f8682bfaa324cd18dac307aa276f9b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c457e9b5f0c5aa56209133d9049093c49409af0")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebBasica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebBasica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
