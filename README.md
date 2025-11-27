@@ -20,7 +20,7 @@ Publicación youtube: 26 de noviembre 2025
 
 
 Punto 2 CD: 
-Video: 
+Video: https://youtu.be/-EKJxqcxptI
 
 Evidencias: EvidenciasCD.pdf
 
