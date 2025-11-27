@@ -34,7 +34,7 @@ app.MapGet("/", async context =>
 </head>
 <body>
     <div class=""card"">
-        <h1>👋</h1>
+        <h1>Prueba de commit👋</h1>
         <p>Esta es una aplicación web básica funcional, ejecutándose en Visual Studio 2022.</p>
         <button onclick=""alert('¡La aplicación funciona correctamente!')"">
             Probar
@@ -50,5 +50,6 @@ app.MapGet("/", async context =>
 app.MapGet("/saludo", () => "Hola desde /saludo");
 
 app.Run();
+
 
 
